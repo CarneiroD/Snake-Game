@@ -21,5 +21,7 @@ Welcome to the Snake Game repository! This is a simple and classic Snake game, a
 3. Run the game by executing the `snake_game.py` file.
 
 <br>
+
 ![image](https://github.com/CarneiroD/Snake-Game/assets/104696624/6702f0fb-e79d-4c5b-b706-0603d61de2ae)
+
 ![image](https://github.com/CarneiroD/Snake-Game/assets/104696624/b323108a-fa76-4616-b767-cb10d1618d4b)
